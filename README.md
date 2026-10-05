@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="./assets/cat.jpg" width="360" alt="我家猫" />
+  <img src="./assets/cover.jpg" width="900" alt="家里的猫坐在左边。右边是一张访客条：人是 Yihang，挂名 Crisp Shark，门牌 Sliesu。猫正在瞪，气泡里写着 Hi, Brooooooo~">
 </p>
 
+<<<<<<< HEAD
 <h1 align="center">Hi, Brooooooo~</h1>
 
 ## 现在在做
@@ -19,3 +20,6 @@
 
 ---
 
+=======
+<p align="center">气泡不更新。</p>
+>>>>>>> f4c7f96 (主页改成猫的封面，不再罗列项目。)
