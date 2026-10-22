@@ -54,10 +54,9 @@
   
 | 领域 | 常用工具 / 语言 |
 | :--- | :--- |
-| **AI / ML** | `Python` `PyTorch` `LangChain` `OpenAI API` `Prompt Engineering` |
+| **AI / ML** | `Python` `PyTorch` `LangChain` `Dify` `Prompt Engineering` |
 | **前端开发** | `React` `Vue` `TypeScript` `TailwindCSS` `Vite` |
-| **后端 / 部署** | `Node.js` `FastAPI` `Docker` `Cloudflare` `GitHub Actions` |
-| **奇怪的小工具** | `Markdown` `Figma` `拼豆熨斗` |
+| **后端 / 部署** | `Node.js` `JAVA` `C/C++（会一丢丢）` `Python`|
 
 </div>
 
