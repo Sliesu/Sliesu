@@ -1,12 +1,21 @@
 <div align="center">
 
 <!-- 动态打字效果 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3E92CC&center=true&vCenter=true&width=600&lines=Hi%2C+Brooooooo~+%F0%9F%91%8B;25%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F+%F0%9F%8E%93;%E6%88%90%E5%8A%9F%E8%BD%AC%E8%81%8C%E4%B8%BA+%E2%80%9C%E5%82%BB%E7%93%9C+AI+%E5%BC%80%E5%8F%91%E2%80%9D+%F0%9F%A4%96;Keep+Building%2C+Keep+Prompting+%E2%9A%A1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3E92CC&center=true&vCenter=true&width=600&lines=Hi%2C+Brooooooo~+%F0%9F%91%8B;%E5%88%9A%E5%87%BA%E6%A0%A1%E5%9B%AD%2C+%E5%B0%B1%E4%B8%8A+AI+%E6%B5%AA%E6%BD%AE+%F0%9F%8C%8A;%E6%88%90%E5%8A%9F%E8%BD%AC%E8%81%8C%E4%B8%BA+%E2%80%9C%E5%82%BB%E7%93%9C+AI+%E5%BC%80%E5%8F%91%E2%80%9D+%F0%9F%A4%96;Keep+Building%2C+Keep+Prompting+%E2%9A%A1" alt="Typing SVG" /></a>
 
 <!-- 你的 Logo -->
-<img src="https://i.postimg.cc/6553jdvF/logo.png" alt="AUREON AI Quant" width="200" style="border-radius: 20px;" />
+<!-- 生态 / 合作 Logo -->
+<div align="center">
 
-<h3>👋 Hi，Broooooooo～</h3>
+<div align="center">
+  <img src="https://i.postimg.cc/6553jdvF/logo.png" alt="AUREON AI Quant" height="56" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/rbc-logo.png" alt="彩虹云" height="70" vspace="12" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/xingya-plan-tag.png" alt="行鸭 How Trip" height="40" />
+</div>
+
+</div>
 
 <p>
   <img src="https://img.shields.io/badge/Status-25届新鲜出炉的打工人-success?style=flat-square&logo=github" alt="status" />
