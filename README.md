@@ -18,7 +18,6 @@
 </div>
 
 <p>
-  <img src="https://img.shields.io/badge/Status-25届新鲜出炉的打工人-success?style=flat-square&logo=github" alt="status" />
   <img src="https://img.shields.io/badge/Role-AI_&_FullStack_Developer-blue?style=flat-square" alt="role" />
   <img src="https://img.shields.io/badge/Location-Cyberspace-purple?style=flat-square&logo=googlemaps" alt="location" />
   <img src="https://komarev.com/ghpvc/?username=sliesu&color=brightgreen&style=flat-square&label=Profile+Views" alt="views" />
@@ -29,8 +28,6 @@
 ---
 
 ### 关于我 (About Me)
-
- **“傻瓜 AI 开发者”**
 
 - 目前专注：**AUREON AI Quant** (探索 AI 在量化交易里的边界)
 - 业余折腾：**豆叽 (Beads Maker)** (像素艺术与拼豆的浪漫结合)
